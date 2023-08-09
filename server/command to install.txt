@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=Pk3ORvGarT0&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM&index=4
+
+1. npm i -g nodemon
+2. npm init -y or npm init
+3. npm i express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose
+4.npm i dotenv 
+5. code. //to open code editor
